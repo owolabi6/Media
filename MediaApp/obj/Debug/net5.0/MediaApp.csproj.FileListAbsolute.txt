@@ -1,0 +1,16 @@
+C:\Users\ADVOCATE ROTIMI\Desktop\MediaApp\obj\Debug\net5.0\MediaApp.csproj.AssemblyReference.cache
+C:\Users\ADVOCATE ROTIMI\Desktop\MediaApp\obj\Debug\net5.0\MediaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADVOCATE ROTIMI\Desktop\MediaApp\obj\Debug\net5.0\MediaApp.AssemblyInfoInputs.cache
+C:\Users\ADVOCATE ROTIMI\Desktop\MediaApp\obj\Debug\net5.0\MediaApp.AssemblyInfo.cs
+C:\Users\ADVOCATE ROTIMI\Desktop\MediaApp\obj\Debug\net5.0\MediaApp.csproj.CoreCompileInputs.cache
+C:\Users\ADVOCATE ROTIMI\Desktop\MediaApp\bin\Debug\net5.0\MediaApp.exe
+C:\Users\ADVOCATE ROTIMI\Desktop\MediaApp\bin\Debug\net5.0\MediaApp.deps.json
+C:\Users\ADVOCATE ROTIMI\Desktop\MediaApp\bin\Debug\net5.0\MediaApp.runtimeconfig.json
+C:\Users\ADVOCATE ROTIMI\Desktop\MediaApp\bin\Debug\net5.0\MediaApp.runtimeconfig.dev.json
+C:\Users\ADVOCATE ROTIMI\Desktop\MediaApp\bin\Debug\net5.0\MediaApp.dll
+C:\Users\ADVOCATE ROTIMI\Desktop\MediaApp\bin\Debug\net5.0\ref\MediaApp.dll
+C:\Users\ADVOCATE ROTIMI\Desktop\MediaApp\bin\Debug\net5.0\MediaApp.pdb
+C:\Users\ADVOCATE ROTIMI\Desktop\MediaApp\obj\Debug\net5.0\MediaApp.dll
+C:\Users\ADVOCATE ROTIMI\Desktop\MediaApp\obj\Debug\net5.0\ref\MediaApp.dll
+C:\Users\ADVOCATE ROTIMI\Desktop\MediaApp\obj\Debug\net5.0\MediaApp.pdb
+C:\Users\ADVOCATE ROTIMI\Desktop\MediaApp\obj\Debug\net5.0\MediaApp.genruntimeconfig.cache
